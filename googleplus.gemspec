@@ -4,12 +4,12 @@ require "googleplus/version"
 
 Gem::Specification.new do |s|
   s.name        = "googleplus"
-  s.version     = Googleplus::0.0.1
-  s.authors     = ["TODO: Francisco Ramos"]
-  s.email       = ["TODO: frankinbox@gmail.com"]
+  s.version     = Googleplus::VERSION
+  s.authors     = ["Francisco Ramos"]
+  s.email       = ["frankinbox@gmail.com"]
   s.homepage    = "http://github.com/donfrancisco/googleplus"
-  s.summary     = %q{TODO: Google+ API Wrapper}
-  s.description = %q{TODO: Google+ API Wrapper}
+  s.summary     = %q{Google+ API Wrapper}
+  s.description = %q{Google+ API Wrapper}
 
   s.rubyforge_project = "googleplus"
 
